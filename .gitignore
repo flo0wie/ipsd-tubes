@@ -1,0 +1,21 @@
+# Dataset & hasil split lokal
+Dataset/
+dataset/
+split_data/
+data_fish_split/
+
+# Bobot / checkpoint model
+checkpoints/
+chekpoints/
+*.pth
+*.pt
+*.h5
+*.onnx
+*.caffe
+
+# Python & virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/

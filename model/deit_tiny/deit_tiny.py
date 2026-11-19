@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # ==========================================
 # MODEL DEIT-TINY
 # Vision Transformer untuk Klasifikasi Ikan
@@ -149,3 +150,5 @@ if __name__ == "__main__":
     print("\nMODEL BERHASIL DIBUAT")
 
     show_model_summary(model)
+=======
+>>>>>>> f0285b9 (model mobilenet)
